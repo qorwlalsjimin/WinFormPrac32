@@ -10,7 +10,8 @@ using System.Windows.Forms;
 
 namespace WinFormPrac32
 {
-    public partial class Form1 : Form
+    //partial 클래스 분할
+    public partial class Form1 : Form //상속
     {
         public Form1()
         {
